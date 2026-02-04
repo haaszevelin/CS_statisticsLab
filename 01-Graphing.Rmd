@@ -810,7 +810,7 @@ When we measure things, we often get so much data that it is almost impossible t
 We will start every task with the same first step, which is, to load the dataset into CogStat. In this part, we will use the dataset “Film_Permits” (https://opendata.cityofnewyork.us/). As mentioned in the previous chapter, to load the data into CogStat, choose “Data”, then “Open demo data File…”.  It is also possible to drag and drop the file or copy and paste it to the CogStat window. After loading the dataset, you will see the following things, as displayed in the picture above:
 
 ```{r , echo=FALSE,dev='png"}
-knitr::include_graphics('img/ch1/CS_homepage.png'}
+knitr::include_graphics('img/ch1/CS_homepage.png')
 ```
 
 In CogStat, as you can see in the picture above, there are two separate areas or panes: on the left, we have all our variables and data, and the right side functions as an output, where the results of our tests will appear.
